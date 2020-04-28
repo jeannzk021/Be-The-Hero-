@@ -1,6 +1,9 @@
 <h1 align="center">
 💻 Be The Hero - WEB 💻
-</h1>
+
+
+<h5> Projeto tem a finalidade das pessoas que desejam ajudar os casos cadastrados nas ONGs. Clique nas imagens ⬇ <h5>
+
 
 ![image](https://user-images.githubusercontent.com/60414493/80439979-1f737900-88de-11ea-81ba-5c1c32ad92a6.png)
 
