@@ -1,7 +1,7 @@
 <h1 align="center">
-💻 <h2> Be The Hero - WEB <h2> 💻  
+💻 Be The Hero - WEB 💻  
   
-
+Clique nas imagens 😎
  
 
 - 🚀  <a href="https://github.com/jeannzk021/Be-The-Hero-#technologies">Technologies</a> 
