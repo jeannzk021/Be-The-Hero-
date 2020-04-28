@@ -4,13 +4,13 @@
   <h5> Clique nas imagens ⬇ <h5>
 
 
-🚀  <a href="https://github.com/jeannzk021/be-the-hero-Mobile-/blob/master/README.md#technologies">Technologies</a> 
+🚀  <a href="https://github.com/jeannzk021/Be-The-Hero-#technologies">Technologies</a> 
 
-🏠 <a href="https://github.com/jeannzk021/be-the-hero-Mobile-/blob/master/README.md#project">Project</a>
+🏠 <a href="https://github.com/jeannzk021/Be-The-Hero-#project">Project</a>
 
-🚩 <a href="https://github.com/jeannzk021/be-the-hero-Mobile-/blob/master/README.md#how-to-contribute">How to contribute</a>
+🚩 <a href="https://github.com/jeannzk021/Be-The-Hero-#how-to-contribute">How to contribute</a>
 
-💻 <a href="#memo-license">License</a>
+💻 <a href="https://github.com/jeannzk021/Be-The-Hero-#license">License</a>
 
 
 
