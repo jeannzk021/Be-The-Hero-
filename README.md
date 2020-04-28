@@ -36,7 +36,8 @@ This project was developed with the following technologies:
 
 ## Project
 
-Projeto tem a finalidade das pessoas que desejam ajudar os casos cadastrados nas ONGs.
+
+The project is intended for people who want to help cases registered with ONGs.
 
 
 ##  How to contribute
