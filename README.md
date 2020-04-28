@@ -2,7 +2,7 @@
 💻 Be The Hero - WEB 💻  
   
 
-* <h5> Clique nas imagens ⬇ <h5>
+<h5> *Clique nas imagens ⬇ <h5>
   
 
 - 🚀  <a href="https://github.com/jeannzk021/Be-The-Hero-#technologies">Technologies</a> 
