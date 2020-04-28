@@ -1,8 +1,18 @@
 <h1 align="center">
 💻 Be The Hero - WEB 💻
+  
+  <h5> Clique nas imagens ⬇ <h5>
 
 
-<h5> Projeto tem a finalidade das pessoas que desejam ajudar os casos cadastrados nas ONGs. Clique nas imagens ⬇ <h5>
+🚀  <a href="https://github.com/jeannzk021/be-the-hero-Mobile-/blob/master/README.md#technologies">Technologies</a> 
+
+🏠 <a href="https://github.com/jeannzk021/be-the-hero-Mobile-/blob/master/README.md#project">Project</a>
+
+🚩 <a href="https://github.com/jeannzk021/be-the-hero-Mobile-/blob/master/README.md#how-to-contribute">How to contribute</a>
+
+💻 <a href="#memo-license">License</a>
+
+
 
 
 ![image](https://user-images.githubusercontent.com/60414493/80439979-1f737900-88de-11ea-81ba-5c1c32ad92a6.png)
@@ -26,7 +36,7 @@ This project was developed with the following technologies:
 
 ## Project
 
-Be The Hero is a project that aims to connect people who are willing to help ONGs.
+Projeto tem a finalidade das pessoas que desejam ajudar os casos cadastrados nas ONGs.
 
 
 ##  How to contribute
